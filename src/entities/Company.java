@@ -1,5 +1,4 @@
 package entities;
 
-public class Company {
-    
-}
+public abstract class Company {
+    }
